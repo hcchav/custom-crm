@@ -158,7 +158,7 @@ export default function UserInfoCard() {
 
                   <div className="col-span-2 lg:col-span-1">
                     <Label>Email Address</Label>
-                    <Input type="text" defaultValue="randomuser@pimjo.com" />
+                    <Input type="text" defaultValue="heroncchavez@gmail.com" />
                   </div>
 
                   <div className="col-span-2 lg:col-span-1">
